@@ -36,6 +36,9 @@ dotnet build
 # Run the console app
 dotnet run
 ```
+![image](https://github.com/user-attachments/assets/e353e0aa-bb8e-431c-ac6f-973398115472)
+
+
 
 
 ## 2. Running tests
