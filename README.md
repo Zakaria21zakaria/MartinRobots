@@ -36,6 +36,7 @@ dotnet build
 # Run the console app
 dotnet run
 ```
+See sample below:
 ![image](https://github.com/user-attachments/assets/e353e0aa-bb8e-431c-ac6f-973398115472)
 
 
@@ -46,3 +47,7 @@ dotnet run
 ```bash
 dotnet test
 ```
+See sample below:
+
+![image](https://github.com/user-attachments/assets/42c7bbef-9451-4ded-9973-599e56ac8334)
+
