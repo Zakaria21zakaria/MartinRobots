@@ -14,6 +14,10 @@ This is a C# .NET 9 console application that simulates robot navigation on a rec
 - A scent is left at the point where a robot was lost to prevent other robots from being lost in the same way.
 
 ---
+## Tech considerations
+- The project is build using .net 9 console application. Input is read from the console for simplicity and direct interation.
+- Use of xUnit as the test framework for its simplicity and popularity in .NET ecosystems.
+---
 
 ## ⚙️ Requirements
 
